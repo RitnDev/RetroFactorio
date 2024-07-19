@@ -1,0 +1,1 @@
+ProtoEntity = require(ritnlib.defines.class.prototype.entity)
